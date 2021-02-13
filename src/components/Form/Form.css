@@ -1,0 +1,17 @@
+.Form {
+  background-color: lightgray;
+  margin: 25px;
+  padding: 10px;
+  line-height: 1.75rem;
+  column-count: 2;
+}
+
+.Form .formInputs {
+  display: block;
+  position: relative;
+  column-count: 1;
+}
+
+.Form .storeState {
+  line-height: 1rem;
+}
